@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ac22f"],{"17f9":function(n,t,a){"use strict";a.r(t);var e=function(){var n=this,t=n.$createElement,a=n._self._c||t;return a("div",{staticClass:"content"},[a("Navbar"),a("mdb-container",[n._v(" Discord ")]),a("Footer")],1)},o=[],c=a("d178"),r=a("fd2d"),d=a("91c9"),s={name:"Discord",components:{Navbar:c["a"],Footer:r["a"],mdbContainer:d["mdbContainer"]}},i=s,b=a("2877"),u=Object(b["a"])(i,e,o,!1,null,"b8dd3966",null);t["default"]=u.exports}}]);
-//# sourceMappingURL=chunk-2d0ac22f.d81dfcb7.js.map
