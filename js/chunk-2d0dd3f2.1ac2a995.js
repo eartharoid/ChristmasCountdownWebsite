@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dd3f2"],{8125:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{staticClass:"content"},[t("Navbar"),t("mdb-container",[n._v(" Donate ")]),t("Footer")],1)},o=[],c=t("d178"),r=t("fd2d"),d=t("91c9"),s={name:"Donate",components:{Navbar:c["a"],Footer:r["a"],mdbContainer:d["mdbContainer"]}},i=s,u=t("2877"),b=Object(u["a"])(i,a,o,!1,null,"17ec545e",null);e["default"]=b.exports}}]);
-//# sourceMappingURL=chunk-2d0dd3f2.1ac2a995.js.map
